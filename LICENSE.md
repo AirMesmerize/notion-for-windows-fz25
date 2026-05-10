@@ -1,4 +1,4 @@
-
+custom Notion for Windows Extension | search-functionality + rich-text-editing is the best Notion for Windows extension, featuring search-functionality and rich-text-editing.
 
 
 
